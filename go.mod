@@ -1,3 +1,3 @@
-module github.com/themooseman/wikitivity
+module github.com/themooseman/wiki-xml-parser
 
 go 1.23.1
